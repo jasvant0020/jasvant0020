@@ -24,6 +24,7 @@
 - ## 🏆 Certificates
 
 - 📄 [Internship at Infosoft Technologies](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/Jasvant_infosoft.jpg)
+- 📄 [Introduction to Python and Basic Selenium Setup](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/Selenium_Coursera_CY26MTKMWQYN.pdf)
 - 📄 [Google Sheet Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-68903915-d530-4dd9-a642-585202068bdb.jpg)
 - 📄 [Revenue Streams and Pricing Tactis](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/10April_COP_Jasvant_page-0001.jpg)
 - 📄 [Python Programming Certificate](https://github.com/jasvant0020/jasvant0020/blob/main/certificates/UC-7e282842-1d20-4eee-bc2a-41faf558b15b.jpg)
